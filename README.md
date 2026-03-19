@@ -35,7 +35,7 @@
    </p>
 
 2. **将文件导入软件中**
-   - 打开（插入js文件链接）在右上角找到下载键并点击。
+   - 打开[代码文件](./KPL-scriptable-widget-v1.0.scriptable)，在右上角找到下载键并点击。
    - 找到下载目录并找到下载好的本文件➡️长按该文件➡️共享➡️在软件栏滑到底选择“更多”➡️找到“Scriptable”并点击➡️跳转后点击最下方“Add to My Scripts”
   <p align="center">
      <img src="./Image/setting-2.jpg" width="55%" alt="文件放入App中">

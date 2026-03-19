@@ -1,5 +1,7 @@
 # 🍎Scriptable widget for game
 
+![](/Image/Widget-preview.png)
+
 
 <p align="center">
   <strong>为苹果设备用户提供的可查看KPL赛程的小组件，支持高度自定义。</strong>

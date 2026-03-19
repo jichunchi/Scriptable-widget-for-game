@@ -1,11 +1,15 @@
-# 🍎Scriptable widget for game
+# 🍎SCRIPTABLE WIDGET FOR GAME
+<p align="center">
+  <img src="./Image/widget-preview.png" width="65%" alt="大中小组件预览图">
 
-![](/Image/Widget-preview.png)
+</p>
 
 
 <p align="center">
   <strong>为苹果设备用户提供的可查看KPL赛程的小组件，支持高度自定义。</strong>
 </p>
+
+---
 
 <p align="center">
     <a href="https://github.com/jichunchi/Scriptable-widget-for-game"><img src="https://img.shields.io/badge/github-SCRIPTABLE_WIDGET_FOR_GAME-blue?logo=github&style=for-the-badge" alt="Name"></a>
@@ -13,7 +17,7 @@
 </p>
 
 
-## 一 功能
+## 一、功能
 - 对于未进行的赛事，显示开始时间；
 - 对于正在进行的比赛，显示橙色的实时比分；
 - 对于已经结束的比赛，显示黑色的最终比分；
@@ -21,29 +25,36 @@
 - 小组件已适配三种不同的大小，可自行选用；
 - 所有可自定义调节的显示，请移步配置教程。
 
-## 二 下载与使用教程
+## 二、下载与使用教程
 > 只有**苹果设备**可以使用！小米等设备自带赛事小组件，可自行寻找教程。
 
 1. **下载Scriptable软件**
-   - 图片插入
    - 打开后如出现闪退现象，请：设置➡️Apple 账户➡️iCloud➡️已存至iCloud，查看全部➡️下滑找到Scriptable并将其关闭
+   <p align="center">
+     <img src="./Image/setting-1.jpg" width="60%" alt="大中小组件预览图">
+   </p>
 
 3. **将文件导入软件中**
    - 打开（插入js文件链接）在右上角找到下载键并点击。
-   （插入下载图片）
    - 找到下载目录并找到下载好的本文件➡️长按该文件➡️共享➡️在软件栏滑到底选择“更多”➡️找到“Scriptable”并点击➡️跳转后点击最下方“Add to My Scripts”
-   （插入App内文件图片，可能是英语名，这里等下弄）
+  <p align="center">
+     <img src="./Image/setting-2.jpg" width="55%" alt="文件放入App中">
+   </p>
+   
 
 4. **设置小组件**
    - 在主屏幕添加小组件时选择“Scriptable”并添加。
    - 长按小组件可修改尺寸或编辑。
    - 编辑时，Script选项选择这个代码文件。
+   <p align="center">
+     <img src="./Image/setting-3.jpg" width="40%" alt="小组件设置界面">
+   </p>
 
 5. **开始使用！**
 
----
 
-## 三 配置教程
+
+## 三、配置教程
 ### 3.1 每日赛程自动更新时间
 代码第 47 行：`if (hour < 8)`默认为早上八点，如果想换成早上七点更新，把“8”改成“7”即可。
 > 建议只修改为当日赛程开始之前的时间，不然比赛已经开始了，赛程还是显示着昨天的比分，会不太方便查看哦^^
@@ -60,5 +71,5 @@
 > 以KPL为例，KPL赛事频道为“100103”，但KPL赛制多变，包括但不限于春夏秋季联赛、冬冠、世冠、挑杯、年总等，因此赛制频道多变。
 > 作者对KPL赛制较为了解，能做到持续更新；但是作者没看过别的赛事，可能会出现赛制遗漏的情况，影响使用。所以目前还没有做别的赛事^^
 
-## 四 彩蛋🎉
+## 四、彩蛋🎉
 懂一点点代码的朋友可移步第56行~生而无畏战至终章（bushi）

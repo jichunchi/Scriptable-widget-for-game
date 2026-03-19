@@ -31,7 +31,7 @@
 1. **下载Scriptable软件**
    - 打开后如出现闪退现象，请：设置➡️Apple 账户➡️iCloud➡️已存至iCloud，查看全部➡️下滑找到Scriptable并将其关闭
    <p align="center">
-     <img src="./Image/setting-1.jpg" width="60%" alt="大中小组件预览图">
+     <img src="./Image/setting-1.jpg" width="60%" alt="关闭iCloud">
    </p>
 
 2. **将文件导入软件中**

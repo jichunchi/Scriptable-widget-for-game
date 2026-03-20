@@ -29,7 +29,7 @@
 > 只有**苹果设备**可以使用！小米等设备自带赛事小组件，可自行寻找教程。
 
 1. **下载Scriptable软件**
-   - 打开后如出现闪退现象，请：设置➡️Apple 账户➡️iCloud➡️已存至iCloud，查看全部➡️下滑找到Scriptable并将其关闭
+   - 打开后如出现闪退现象，请：设置➡️Apple 账户➡️iCloud➡️已存至iCloud，查看全部➡️下滑找到Scriptable并将其关闭。
    <p align="center">
      <img src="./Image/setting-1.jpg" width="60%" alt="关闭iCloud">
    </p>
@@ -37,7 +37,7 @@
 2. **将文件导入软件中**
    - 方法1：打开[代码文件](./KPL-scriptable-widget-v1.0.scriptable)在右上角找到下载键并点击。
    - 方法2：点击[本链接](https://github.com/jichunchi/Scriptable-widget-for-game/releases/download/v1.0/KPL-scriptable-widget-v1.0.scriptable)直接进行下载。
-   - 找到下载目录并找到下载好的本文件➡️长按该文件➡️共享➡️在软件栏滑到底选择“更多”➡️找到“Scriptable”并点击➡️跳转后点击最下方“Add to My Scripts”
+   - 找到下载目录并找到下载好的本文件➡️长按该文件➡️共享➡️在软件栏滑到底选择“更多”➡️找到“Scriptable”并点击➡️跳转后点击最下方“Add to My Scripts”。
   <p align="center">
      <img src="./Image/setting-2.jpg" width="55%" alt="文件放入App中">
    </p>
